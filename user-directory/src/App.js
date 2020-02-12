@@ -1,8 +1,8 @@
 import React from "react";
-import User from "./components/User";
+import UserContainer from "./components/UserContainer";
 
 function App() {
-  return <User />;
+  return <UserContainer />;
 }
 
 export default App;
