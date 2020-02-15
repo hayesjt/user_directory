@@ -14,7 +14,7 @@ function UserInfo(props) {
           <h2>Users</h2>
           {results.map(result => (
             <li className="list-group-item" key={result.id}>
-            <img className="img" src={img}></img>
+            <img className="img" src={img} alt='profile' />
             <span className="name"><b>{result.firstname} {result.lastname}</b></span>
             <span className="badge badge-dark badge-pill">{result.email}</span>
           </li>

@@ -1,6 +1,6 @@
 {
   "homepage": "https://haylee430.github.io/user_directory/",
-  "name": "user-directory",
+  "name": "user_directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
